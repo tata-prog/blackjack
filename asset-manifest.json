@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/blackjack/static/css/main.34da8c3c.chunk.css",
-    "main.js": "/github.io/blackjack/static/js/main.da45ecf5.chunk.js",
-    "main.js.map": "/github.io/blackjack/static/js/main.da45ecf5.chunk.js.map",
-    "runtime-main.js": "/github.io/blackjack/static/js/runtime-main.119fb571.js",
-    "runtime-main.js.map": "/github.io/blackjack/static/js/runtime-main.119fb571.js.map",
-    "static/js/2.9f99aa67.chunk.js": "/github.io/blackjack/static/js/2.9f99aa67.chunk.js",
-    "static/js/2.9f99aa67.chunk.js.map": "/github.io/blackjack/static/js/2.9f99aa67.chunk.js.map",
-    "index.html": "/github.io/blackjack/index.html",
-    "precache-manifest.a8a3f8774acc3fee8fb9456ede08fd29.js": "/github.io/blackjack/precache-manifest.a8a3f8774acc3fee8fb9456ede08fd29.js",
-    "service-worker.js": "/github.io/blackjack/service-worker.js",
-    "static/css/main.34da8c3c.chunk.css.map": "/github.io/blackjack/static/css/main.34da8c3c.chunk.css.map",
-    "static/js/2.9f99aa67.chunk.js.LICENSE.txt": "/github.io/blackjack/static/js/2.9f99aa67.chunk.js.LICENSE.txt"
+    "main.css": "/blackjack/static/css/main.34da8c3c.chunk.css",
+    "main.js": "/blackjack/static/js/main.da45ecf5.chunk.js",
+    "main.js.map": "/blackjack/static/js/main.da45ecf5.chunk.js.map",
+    "runtime-main.js": "/blackjack/static/js/runtime-main.852dc962.js",
+    "runtime-main.js.map": "/blackjack/static/js/runtime-main.852dc962.js.map",
+    "static/js/2.9f99aa67.chunk.js": "/blackjack/static/js/2.9f99aa67.chunk.js",
+    "static/js/2.9f99aa67.chunk.js.map": "/blackjack/static/js/2.9f99aa67.chunk.js.map",
+    "index.html": "/blackjack/index.html",
+    "precache-manifest.10dc0ea8a5cb03819985b8dd266ccd81.js": "/blackjack/precache-manifest.10dc0ea8a5cb03819985b8dd266ccd81.js",
+    "service-worker.js": "/blackjack/service-worker.js",
+    "static/css/main.34da8c3c.chunk.css.map": "/blackjack/static/css/main.34da8c3c.chunk.css.map",
+    "static/js/2.9f99aa67.chunk.js.LICENSE.txt": "/blackjack/static/js/2.9f99aa67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.119fb571.js",
+    "static/js/runtime-main.852dc962.js",
     "static/js/2.9f99aa67.chunk.js",
     "static/css/main.34da8c3c.chunk.css",
     "static/js/main.da45ecf5.chunk.js"
